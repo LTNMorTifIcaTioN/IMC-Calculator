@@ -11,7 +11,9 @@ int main()
     char quest;
     int N, i, j;
 
-    printf("C   A   L   C   U   L   A   D   O   R   A      D   E      I   M   C");
+    printf("C   A   L   C   U   L   A   D   O   R   A      D   E      I   M   C\n");
+
+    printf("\n");
 
     do
     {
