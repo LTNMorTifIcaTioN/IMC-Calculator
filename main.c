@@ -11,10 +11,16 @@ int main()
     char quest;
     int N, i, j;
 
+    printf("C   A   L   C   U   L   A   D   O   R   A      D   E      I   M   C");
+
     do
     {
+        do
+        {
         printf("Quantos clientes serao informados? ");
         scanf("%i", &N);
+        } while(N <1);
+
 
         char nome[N][50];
         double peso[N];
