@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669166657 source:d:\projetos\ws-codeblocks\c\atividade_imc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+
