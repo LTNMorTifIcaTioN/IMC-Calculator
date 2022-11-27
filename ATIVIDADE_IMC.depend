@@ -1,8 +1,13 @@
 # depslib dependency file v1.0
-1669166657 source:d:\projetos\ws-codeblocks\c\atividade_imc\main.c
+1669588230 source:d:\projetos\ws-codeblocks\c\atividade_imc\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	<math.h>
+	"funcao.h"
+
+1669588362 source:d:\projetos\ws-codeblocks\c\atividade_imc\funcao.c
+
+1669570610 d:\projetos\ws-codeblocks\c\atividade_imc\funcao.h
 
